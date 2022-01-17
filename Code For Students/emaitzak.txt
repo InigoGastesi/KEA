@@ -1,0 +1,23 @@
+Starting tests...
+Tests passed
+Elapsed time for tests: 0.0039980412 seconds.
+Starting Instances tests
+1: UNSATISFIABLE
+2: [0, 1, 1, 0, 1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 0, 0, 1, 0]
+3: [0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+4: [0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1]
+6: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+7: UNSATISFIABLE
+8: UNSATISFIABLE
+9: UNSATISFIABLE
+Elapsed time for instances tests: 124.8381078243 seconds.
+
+Starting tests...
+Tests passed
+Elapsed time for tests: 0.0030016899 seconds.
+Starting Instances tests
+5: UNSATISFIABLE
+Elapsed time for instances tests: 2071.2315764427 seconds.
+Starting Instances tests
+10: UNSATISFIABLE
+Elapsed time for instances tests: 7860.0676147938 seconds.
